@@ -38,7 +38,7 @@
 	</style>
 </head>
 <body>
-    <h1 style="text-align: center;color:#FF0000;"> USE BEAN </h1>
+    <h1 style="text-align: center;color:#FF0000;"> USE BEAN JSP </h1>
     
     <div class="col-3 menu">
 <ul>
