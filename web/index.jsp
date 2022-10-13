@@ -7,7 +7,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title> Actions Demo usebean</title>
+    <title> Example demo</title>
     <style type="text/css">
 	* {
             box-sizing: border-box;
