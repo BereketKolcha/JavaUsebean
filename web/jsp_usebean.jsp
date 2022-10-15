@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>use Bean Action</title>
+    <title>use Bean Action can separate</title>
 </head> 
 <body><fieldset>
     <p>1. Locate an existing Bean in page, request, session or application scope.</p><br>
