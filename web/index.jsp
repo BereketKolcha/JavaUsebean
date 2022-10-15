@@ -41,12 +41,12 @@
     <h1 style="text-align: center;color:#FF0000;"> USE BEAN JSP </h1>
     
     <div class="col-3 menu">
-<ul>
-    <li><a  href="jsp_forward.jsp"> Forward action</a> </li>
-    <li><a  href="jsp_include.jsp"> Include Action</a> </li>
-    <li><a  href="jsp_usebean.jsp">usebean Action</a> </li>
-    <li><a  href="person_form.jsp">Person Form Page</a> </li>
-</ul>
-</div>
+        <ul>
+            <li><a  href="jsp_forward.jsp"> Forward action</a> </li>
+            <li><a  href="jsp_include.jsp"> Include Action</a> </li>
+            <li><a  href="jsp_usebean.jsp">usebean Action</a> </li>
+            <li><a  href="person_form.jsp">Person Form Page</a> </li>
+        </ul>
+    </div>
 </body>
 </html>
