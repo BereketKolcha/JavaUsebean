@@ -7,7 +7,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title> Example demo</title>
+    <title> Example </title>
     <style type="text/css">
 	* {
             box-sizing: border-box;
