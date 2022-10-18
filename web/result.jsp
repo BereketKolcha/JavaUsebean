@@ -17,7 +17,7 @@ ${param["channel"]} ---- ${param["author"]}
     <%=request.getParameter("channel")%> =====
     <%=request.getParameter("author")%>
 </p>
-<h1>This is result display in out print</h1>
+<h1>This is result display in website</h1>
 <p>
     <%
         out.print(request.getParameter("channel"));
