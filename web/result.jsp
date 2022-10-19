@@ -10,7 +10,7 @@
     <title>Result</title>
 </head>
 <body>
-<h1>This is result is displayed by param object</h1>
+<h1>This is result is displayed by parameter object</h1>
 ${param["channel"]} ---- ${param["author"]}
 <h1>This is result displayed in request get parameter</h1>
 <p>
