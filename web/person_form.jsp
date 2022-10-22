@@ -30,7 +30,7 @@
 <body>
     <div>
 <form action="jsp_usebean.jsp" method="post">
-    <p>                                </p>
+    <p>            enter name                    </p>
     .   First Name: <input name="firstName"> <br/>
     .   Last Name: <input name="lastName"> <br/>
     <input type="submit" value="Submit">
