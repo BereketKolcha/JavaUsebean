@@ -12,7 +12,7 @@
 <body>
 <%
     out.print(2+4);
-    out.print("<p>The answer is 6</p>");
+    out.print("<p>The answer  is 6</p>");
 %>
 
 <p>${param.channel} --- ${param.author}</p>
